@@ -39,7 +39,7 @@ firstRegistrationDate：首次注册日期，格式YYYY-MM-DD，识别不到填n
         "Content-Type":"application/json"
       },
       body: JSON.stringify({
-        model:"qwen-vl-flash",
+        model:"qwen3.7-flash",
         input:{
           messages:[
             {
