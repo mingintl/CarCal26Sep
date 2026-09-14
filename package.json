@@ -1,5 +1,5 @@
-{
-  "dependencies": {
-    "axios": "^1.7.0"
-  }
-}
+logcard-backend/
+├─ package.json
+├─ vercel.json
+└─ api/
+   └─ recognize-logcard.js
