@@ -48,6 +48,7 @@ firstRegistrationDate：首次注册日期，格式 YYYY-MM-DD
             ]
           }
         ]
+        // 重点：这里完全不写 result_format !!!
       })
     });
     const data = await resp.json();
